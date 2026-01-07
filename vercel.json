@@ -1,0 +1,7 @@
+{
+  "framework": "remix",
+  "name": "blank-shopify-app",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
